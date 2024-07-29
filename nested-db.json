@@ -1,0 +1,94 @@
+{
+  "links": [
+    {
+      "name": "Google",
+      "href": "https://www.google.com",
+      "sub-links": [
+        {
+          "name": "Google Maps",
+          "href": "https://maps.google.com"
+        },
+        {
+          "name": "Google Drive",
+          "href": "https://drive.google.com"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "href": "https://www.facebook.com",
+      "sub-links": [
+        {
+          "name": "Facebook Messenger",
+          "href": "https://www.messenger.com"
+        },
+        {
+          "name": "Facebook Marketplace",
+          "href": "https://www.facebook.com/marketplace"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "href": "https://www.twitter.com"
+    },
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://www.github.com",
+      "sub-links": [
+        {
+          "name": "GitHub Gist",
+          "href": "https://gist.github.com"
+        },
+        {
+          "name": "GitHub Pages",
+          "href": "https://pages.github.com"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "href": "https://www.youtube.com",
+      "sub-links": [
+        {
+          "name": "YouTube Music",
+          "href": "https://music.youtube.com"
+        },
+        {
+          "name": "YouTube Kids",
+          "href": "https://www.youtubekids.com"
+        }
+      ]
+    },
+    {
+      "name": "Reddit",
+      "href": "https://www.reddit.com"
+    },
+    {
+      "name": "Instagram",
+      "href": "https://www.instagram.com"
+    },
+    {
+      "name": "Wikipedia",
+      "href": "https://www.wikipedia.org"
+    },
+    {
+      "name": "Amazon",
+      "href": "https://www.amazon.com",
+      "sub-links": [
+        {
+          "name": "Amazon Prime Video",
+          "href": "https://www.primevideo.com"
+        },
+        {
+          "name": "Amazon Music",
+          "href": "https://music.amazon.com"
+        }
+      ]
+    }
+  ]
+}
