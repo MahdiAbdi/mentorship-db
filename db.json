@@ -1,0 +1,44 @@
+{
+  "links": [
+    {
+      "name": "Google",
+      "href": "https://www.google.com"
+    },
+    {
+      "name": "Facebook",
+      "href": "https://www.facebook.com"
+    },
+    {
+      "name": "Twitter",
+      "href": "https://www.twitter.com"
+    },
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://www.github.com"
+    },
+    {
+      "name": "YouTube",
+      "href": "https://www.youtube.com"
+    },
+    {
+      "name": "Reddit",
+      "href": "https://www.reddit.com"
+    },
+    {
+      "name": "Instagram",
+      "href": "https://www.instagram.com"
+    },
+    {
+      "name": "Wikipedia",
+      "href": "https://www.wikipedia.org"
+    },
+    {
+      "name": "Amazon",
+      "href": "https://www.amazon.com"
+    }
+  ]
+}
